@@ -108,10 +108,10 @@ WSGI_APPLICATION = 'ferroticProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'dfc28ve1qjaulu',
-        'USER': 'cvfgfxenpxhxyi',
-        'PASSWORD': '870aa260612d138c865e1e96b15ef54736b685ceec09fe21456010475158efc7',
-        'HOST': 'ec2-3-209-65-193.compute-1.amazonaws.com',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
         'PORT': '5432',
     }
 }
